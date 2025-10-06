@@ -1,17 +1,16 @@
 ![hornet](./4d19b2f5c80061e94c7a9bc98755fbc0.gif)
 
 ```
-curl -X GET https://github.com/api/whois?profile=shyybi
+curl -X GET https://github.com/api/whois?profile=dabi
 ```
 
 ```json
 {	
     "profile": {
-        "username": "Shyybi",
+        "username": "Dabi",
         "age": "20",
         "pronouns": "She",
-        "country": "France",
-        "school": "H3 Hitema - Paris"
+        "country": "France"
     }	
 }
 ```
